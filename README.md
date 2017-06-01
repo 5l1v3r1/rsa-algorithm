@@ -1,2 +1,2 @@
 # RSA_Algorithm
-RSA Encryption Algorihm/C++Code
+RSA Encryption Algorihm C++Code
